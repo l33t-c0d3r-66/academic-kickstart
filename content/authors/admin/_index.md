@@ -52,15 +52,15 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/RahulBS1998
-- icon: facebook
-  icon_pack: fab
-  link: https://facebook.com/RahulBS1998
+#- icon: facebook
+#  icon_pack: fab
+#  link: https://facebook.com/RahulBS1998
 #- icon: instagram
 #  icon_pack: fab
 #  link: https://instagram.com/rahulbs_1798
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=t-xb4M4AAAAJ&hl=en
+#- icon: google-scholar
+#  icon_pack: ai
+# link: https://scholar.google.com/citations?user=t-xb4M4AAAAJ&hl=en
 - icon: github
   icon_pack: fab
   link: https://github.com/rahulbs98
