@@ -18,27 +18,40 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  title = "Summer Intern"
+  company = "IBM India Research Labs"
+  company_url = "https://www.research.ibm.com/labs/india/"
+  location = "Bengaluru, India"
+  date_start = "2020-05-04"
   date_end = ""
-  description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
-  """
+  description = """ Working with the Blockchain and Collaboration Networks group at IBM-IRL. """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Summer Intern"
+  company = "Society of Electronic Transactions and Security"
+  company_url = "https://setsindia.in/"
+  location = "Chennai, India"
+  date_start = "2019-05-15"
+  date_end = "2019-07-31"
+  description = """Worked under the guidance of Dr. Jothi Ramalingam"""
+
+[[experience]]
+  title = "Research Intern"
+  company = "Institute of Mathematical Sciences"
+  company_url = "https://imsc.res.in/"
+  location = "Chennai, India"
+  date_start = "2018-12-15"
+  date_end = "2019-01-15"
+  description = """Worked under the guidance of Prof. Srinivas Kotyada"""
+
+[[experience]]
+  title = "Summer Intern"
+  company = "International Institute of Information Technology, Bangalore"
+  company_url = "https://setsindia.in/"
+  location = "Chennai, India"
+  date_start = "2018-05-15"
+  date_end = "2018-07-31"
+  description = """Worked under the guidance of Dr. Srinivas Vivek"""
+
 
 +++

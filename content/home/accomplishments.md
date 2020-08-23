@@ -3,9 +3,9 @@
 widget = "accomplishments"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 50  # Order that this section will appear.
+weight = 65  # Order that this section will appear.
 
-title = "Accomplish&shy;ments"
+title = "Certifications"
 subtitle = ""
 
 # Date format
@@ -21,31 +21,41 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Coursera"
   organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
-  url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
+  title = "Cryptography-1"
+  url = "https://www.coursera.org/learn/crypto"
+  certificate_url = "https://www.coursera.org/account/accomplishments/verify/6WHYGDFANLH6"
+  date_start = "2019-07-04"
   date_end = ""
   description = ""
 
 [[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
+  organization = "Coursera"
+  organization_url = "https://www.coursera.org"
+  title = "Classical Cryptosystems and Core Concepts"
+  url = "https://www.coursera.org/learn/classical-cryptosystems"
+  certificate_url = "https://www.coursera.org/account/accomplishments/verify/6E4ZALQ6VDGW"
+  date_start = "2018-03-27"
   date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
-  
+  description = ""
+
 [[item]]
-  organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
-  url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
+  organization = "Coursera"
+  organization_url = "https://www.coursera.org"
+  title = "Object-Oriented Data Structures in C++"
+  url = "https://www.coursera.org/learn/cs-fundamentals-1"
+  certificate_url = "https://www.coursera.org/account/accomplishments/a/RF74HBLB48FD"
+  date_start = "2020-05-04"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = "Udemy"
+  organization_url = "https://www.udemy.com"
+  title = "The Rust Programming Language"
+  url = "https://www.udemy.com/course/rust-lang/"
+  certificate_url = "https://www.udemy.com/certificate/UC-f3da8f09-253a-490e-98c0-98e3c7365108/"
+  date_start = "2020-03-04"
+  date_end = ""
   description = ""
 
 +++
