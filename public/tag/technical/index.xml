@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Technical | Rahul B S</title>
+    <link>https://rahulbs98.github.io/tag/technical/</link>
+      <atom:link href="https://rahulbs98.github.io/tag/technical/index.xml" rel="self" type="application/rss+xml" />
+    <description>Technical</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 04 May 2020 21:29:05 +0530</lastBuildDate>
+    <image>
+      <url>https://rahulbs98.github.io/media/image1.jpg</url>
+      <title>Technical</title>
+      <link>https://rahulbs98.github.io/tag/technical/</link>
+    </image>
+    
+    <item>
+      <title>Zero Knowledge Proofs</title>
+      <link>https://rahulbs98.github.io/project/ibm/</link>
+      <pubDate>Mon, 04 May 2020 21:29:05 +0530</pubDate>
+      <guid>https://rahulbs98.github.io/project/ibm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Homomorphic Encryption Schemes</title>
+      <link>https://rahulbs98.github.io/project/iiitb/</link>
+      <pubDate>Tue, 15 May 2018 21:29:12 +0530</pubDate>
+      <guid>https://rahulbs98.github.io/project/iiitb/</guid>
+      <description>&lt;p&gt;• Programming Platform: C++, Tools Involved: NTL (ZZ class mainly), HELib (BGV-SHE scheme).&lt;/p&gt;
+&lt;p&gt;• Worked on integrating the HElib-MP Library to the HEAT API by analysing differences between HElib and HElib-MP&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

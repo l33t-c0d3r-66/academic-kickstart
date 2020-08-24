@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Guide - Dr Dhinakaran Vinayagamurthy | Rahul B S</title>
+    <link>https://rahulbs98.github.io/author/guide-dr-dhinakaran-vinayagamurthy/</link>
+      <atom:link href="https://rahulbs98.github.io/author/guide-dr-dhinakaran-vinayagamurthy/index.xml" rel="self" type="application/rss+xml" />
+    <description>Guide - Dr Dhinakaran Vinayagamurthy</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 04 May 2020 21:29:05 +0530</lastBuildDate>
+    <image>
+      <url>https://rahulbs98.github.io/media/image1.jpg</url>
+      <title>Guide - Dr Dhinakaran Vinayagamurthy</title>
+      <link>https://rahulbs98.github.io/author/guide-dr-dhinakaran-vinayagamurthy/</link>
+    </image>
+    
+    <item>
+      <title>Zero Knowledge Proofs</title>
+      <link>https://rahulbs98.github.io/project/ibm/</link>
+      <pubDate>Mon, 04 May 2020 21:29:05 +0530</pubDate>
+      <guid>https://rahulbs98.github.io/project/ibm/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

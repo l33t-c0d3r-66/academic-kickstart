@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rahul B S</title>
+    <link>https://rahulbs98.github.io/</link>
+      <atom:link href="https://rahulbs98.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Rahul B S</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>https://rahulbs98.github.io/media/image1.jpg</url>
+      <title>Rahul B S</title>
+      <link>https://rahulbs98.github.io/</link>
+    </image>
+    
+    <item>
+      <title>Zero Knowledge Proofs</title>
+      <link>https://rahulbs98.github.io/project/ibm/</link>
+      <pubDate>Mon, 04 May 2020 21:29:05 +0530</pubDate>
+      <guid>https://rahulbs98.github.io/project/ibm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>10th Bar Ilan University Winter School on Cryptography</title>
+      <link>https://rahulbs98.github.io/talk/israel/</link>
+      <pubDate>Mon, 17 Feb 2020 22:01:40 +0530</pubDate>
+      <guid>https://rahulbs98.github.io/talk/israel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Secure Multi-Party Computation - Theory and Practice</title>
+      <link>https://rahulbs98.github.io/talk/iisc/</link>
+      <pubDate>Sun, 19 Jan 2020 22:01:47 +0530</pubDate>
+      <guid>https://rahulbs98.github.io/talk/iisc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Secure Assisted Universally Blind Quantum Computation</title>
+      <link>https://rahulbs98.github.io/project/qic/</link>
+      <pubDate>Tue, 07 Jan 2020 21:29:21 +0530</pubDate>
+      <guid>https://rahulbs98.github.io/project/qic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient RSA shared key generation in a multi-party setting</title>
+      <link>https://rahulbs98.github.io/project/israel/</link>
+      <pubDate>Sun, 15 Dec 2019 21:18:58 +0530</pubDate>
+      <guid>https://rahulbs98.github.io/project/israel/</guid>
+      <description>&lt;p&gt;• Working on coming up with efficient methods of biprimality testing for generation of shared RSA modulus.&lt;/p&gt;
+&lt;p&gt;• Also trying to improve efficiency of existing shared RSA-modulus generation methods such as Boneh Franklin’s test using tools in such as the average case error estimate method as in Damgard et al. for Miller Rabin test.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Efficient Hardware-based Symmetric Cryptographic Implementations</title>
+      <link>https://rahulbs98.github.io/project/eee/</link>
+      <pubDate>Wed, 07 Aug 2019 21:29:46 +0530</pubDate>
+      <guid>https://rahulbs98.github.io/project/eee/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analysis of existing Beyond Birthday Bound MAC schemes</title>
+      <link>https://rahulbs98.github.io/project/sets/</link>
+      <pubDate>Wed, 15 May 2019 21:28:55 +0530</pubDate>
+      <guid>https://rahulbs98.github.io/project/sets/</guid>
+      <description>&lt;p&gt;• Cryptanalysis techniques on Beyond Birthday-Bound Secure claimed MAC schemes such as EWCDM, etc..&lt;/p&gt;
+&lt;p&gt;• Theoretically and practically analyzed the Encrypted Wegmen-Carter MAC scheme and H-coefficients technique.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Random Graphs &amp; applications in Cryptography</title>
+      <link>https://rahulbs98.github.io/project/math/</link>
+      <pubDate>Tue, 08 Jan 2019 21:29:52 +0530</pubDate>
+      <guid>https://rahulbs98.github.io/project/math/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RMIT 2018</title>
+      <link>https://rahulbs98.github.io/talk/iiit-b/</link>
+      <pubDate>Tue, 30 Oct 2018 09:00:00 +0530</pubDate>
+      <guid>https://rahulbs98.github.io/talk/iiit-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Summer School in Theoretical Computer Science</title>
+      <link>https://rahulbs98.github.io/talk/imsc/</link>
+      <pubDate>Mon, 28 May 2018 22:01:54 +0530</pubDate>
+      <guid>https://rahulbs98.github.io/talk/imsc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Homomorphic Encryption Schemes</title>
+      <link>https://rahulbs98.github.io/project/iiitb/</link>
+      <pubDate>Tue, 15 May 2018 21:29:12 +0530</pubDate>
+      <guid>https://rahulbs98.github.io/project/iiitb/</guid>
+      <description>&lt;p&gt;• Programming Platform: C++, Tools Involved: NTL (ZZ class mainly), HELib (BGV-SHE scheme).&lt;/p&gt;
+&lt;p&gt;• Worked on integrating the HElib-MP Library to the HEAT API by analysing differences between HElib and HElib-MP&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
