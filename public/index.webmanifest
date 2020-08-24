@@ -1,0 +1,18 @@
+{
+  "name": "Rahul B S",
+  "short_name": "Rahul B S",
+  "lang": "en-us",
+  "theme_color": "#2E47D4",
+  "background_color": "#2E47D4",
+  "icons": [{
+    "src": "/images/icon_hu7d3914524021e9009af422ad230e04e8_13104_192x192_fill_lanczos_center_2.png",
+    "sizes": "192x192",
+    "type": "image/png"
+    }, {
+    "src": "/images/icon_hu7d3914524021e9009af422ad230e04e8_13104_512x512_fill_lanczos_center_2.png",
+    "sizes": "512x512",
+    "type": "image/png"
+     }],
+  "display": "standalone",
+  "start_url": "/?utm_source=web_app_manifest"
+}
