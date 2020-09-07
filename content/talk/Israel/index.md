@@ -4,13 +4,7 @@
 title: "10th Bar Ilan University Winter School on Cryptography"
 event: Winter School on Cryptography
 event_url: http://cyber.biu.ac.il/event/the-10th-biu-winter-school-on-cryptography/
-location: Rayman hall, Kfar Hamaccabiah events & conference center
-address:
-  street: Perets Bernstein St 7
-  city: Ramat Gan
-  region: Tel - Aviv
-  postcode: 52109
-  country: Israel
+location: Bar Ilan University, Israel
 summary:
 abstract:
 
