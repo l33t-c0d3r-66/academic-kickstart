@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   location = "Louvain-la-Neuve, Belgium"
   date_start = "2020-08-25"
   date_end = ""
-  description = """"""
+  description = """Analysis and Implementation of the TEDT-AEAD scheme on hardware"""
 
 [[experience]]
   title = "Summer Research Intern"
@@ -34,7 +34,7 @@ date_format = "Jan 2006"
   location = "Bengaluru, India"
   date_start = "2020-05-04"
   date_end = "2020-08-02"
-  description = """ """
+  description = """Designed a generic interface of Fiat-Shamir heurisitic for Interactive Zero Knowledge Protocols"""
 
 [[experience]]
   title = "Summer Intern"
@@ -43,7 +43,7 @@ date_format = "Jan 2006"
   location = "Chennai, India"
   date_start = "2019-05-15"
   date_end = "2019-07-31"
-  description = """"""
+  description = """Analysed BBB secure authentication schemes and their implementations for usage in PQ Crpyto Schemes"""
 
 [[experience]]
   title = "Summer Intern"
@@ -52,7 +52,7 @@ date_format = "Jan 2006"
   location = "Bengaluru, India"
   date_start = "2018-05-15"
   date_end = "2018-07-31"
-  description = """"""
+  description = """Designing an API for the HELib-MP"""
 
 
 +++
