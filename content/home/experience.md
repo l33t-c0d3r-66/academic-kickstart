@@ -1,7 +1,7 @@
 +++
 # Experience widget.
-widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = true  # This file represents a page section.
+widget = "my_experience"  # See https://sourcethemes.com/academic/docs/page-builder/
+headless = false  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
@@ -19,18 +19,30 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
-  title = "Research Intern"
-  company = "UCL Crypto Group, Université catholique de Louvain"
-  company_url = "https://www-crypto.elen.ucl.ac.be/"
-  location = "Louvain-la-Neuve, Belgium"
-  date_start = "2020-08-25"
+  title = "Cryptography Research Intern"
+  company = "QED-it Systems"
+  company_url = "https://qed-it.com/"
+  company_logo = "qedit.jpg"
+  location = "Tel Aviv, Israel"
+  date_start = "2020-12-21"
   date_end = ""
-  description = """Analysis and Implementation of the TEDT-AEAD scheme on hardware"""
+  description = """Generating efficient comparision circuits for homomorphic encryption schemes"""
+
+[[experience]]
+  title = "Research Intern"
+  company = "Center for Research in Applied Cryptography and Cyber Security, Bar Ilan University"
+  company_url = "https://cyber.biu.ac.il/"
+  company_logo = "biu.jpg"
+  location = "Tel Aviv, Israel"
+  date_start = "2021-01-18"
+  date_end = ""
+  description = """Working on the PSI-Sum with Cardinality problem"""
 
 [[experience]]
   title = "Summer Research Intern"
   company = "Blockchain group, IBM Research, India"
   company_url = "https://www.research.ibm.com/labs/india/"
+  company_logo = "ibm_res.jpg"
   location = "Bengaluru, India"
   date_start = "2020-05-04"
   date_end = "2020-08-02"
@@ -40,6 +52,7 @@ date_format = "Jan 2006"
   title = "Summer Intern"
   company = "Society of Electronic Transactions and Security"
   company_url = "https://setsindia.in/"
+  company_logo = "sets.jpg"
   location = "Chennai, India"
   date_start = "2019-05-15"
   date_end = "2019-07-31"
@@ -49,6 +62,7 @@ date_format = "Jan 2006"
   title = "Summer Intern"
   company = "International Institute of Information Technology, Bangalore"
   company_url = "https://www.iiitb.ac.in/"
+  company_logo = "iiitb.jpg"
   location = "Bengaluru, India"
   date_start = "2018-05-15"
   date_end = "2018-07-31"

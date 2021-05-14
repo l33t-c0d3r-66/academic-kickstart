@@ -5,7 +5,7 @@ title: "Homomorphic Encryption Schemes"
 summary: "Worked on integrating the HElib-MP Library to the HEAT API by analysing differences between HElib and HElib-MP."
 authors: [Guide - Prof. Srinivas Vivek]
 tags: [Technical]
-categories: []
+categories: [FHE]
 date: 2018-05-15T21:29:12+05:30
 
 # Optional external URL for project (replaces project detail page).

@@ -3,9 +3,9 @@
 
 title: "Analysis of existing Beyond Birthday Bound MAC schemes"
 summary: "Theoretically and practically analyzed the Encrypted Wegmen-Carter MAC scheme and H-coefficients technique"
-authors: []
-tags: []
-categories: []
+authors: [Guide - Prof. Jothi Ramalingam]
+tags: [Study]
+categories: [Authentication]
 date: 2019-05-15T21:28:55+05:30
 
 # Optional external URL for project (replaces project detail page).

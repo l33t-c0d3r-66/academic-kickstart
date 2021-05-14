@@ -1,11 +1,11 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Zero Knowledge Proofs"
+title: "Non-Interactive Proof Generation from Interactive Zero Knowledge Protocols"
 summary: "Efficient implementations of interactive and non-interactive versions of Ligero-like protocols."
 authors: [Guide - Dr Dhinakaran Vinayagamurthy, Dr. Nitin Singh]
 tags: [Technical]
-categories: []
+categories: [ZKP]
 date: 2020-05-04T21:29:05+05:30
 
 # Optional external URL for project (replaces project detail page).
@@ -39,3 +39,10 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+
+**Work:**
+- Designed a modular framework for Interactive Zero Knowledge Protocols which was used to convert it to a non-interactive protocol.
+- Implemented additional features for the design to support oracles, protocol composition, etc.. and tested existing protocols like Ligero on it
+
+**An abstraction of the implementation:**
+![Abstraction](abstraction.jpg)
