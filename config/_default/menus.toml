@@ -9,8 +9,8 @@
   weight = 10
 
 [[main]]
-  name = "Updates"
-  url = "#updates"
+  name = "News"
+  url = "#news"
   weight = 20
 
 [[main]]
@@ -23,9 +23,15 @@
   url = "#projects"
   weight = 50
 
+[[main]]
+name = "Mentorship Program"
+weight = 80
+identifier = "Mentorship"
+url = "https://khyatijain.com/covid-aid"
+
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 [[main]]
   name = "Resume"
   url = "files/cv.pdf"
-  weight = 90
+  weight = 70

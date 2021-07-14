@@ -10,21 +10,21 @@ authors:
 superuser: true
 
 # Role/position
-role: Student
+role: Researcher
 
 # Organizations/Affiliations
 organizations:
-- name: Birla Institute of Technology and Science Pilani
-  url: "https://www.bits-pilani.ac.in/"
+- name: Ethereum Foundation
+  url: "https://ethereum.foundation"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Privacy Preserving Technology, Secure Computation, Cryptography. 
+bio: My research interests include Secure MPC, Zero Knowledge Proofs and Private Set Intersection.
 
 interests:
-- Secure Computation
-- Provable Security
+- Multiparty Computation
+- Private Set Intersection
 - Zero Knowledge Proofs
-- Privacy Preserving ML
+- Differential Privacy
 
 education:
   courses:
@@ -83,8 +83,8 @@ user_groups:
 - Visitors
 ---
 
-I am a final year student at <a target=_blank href="https://bits-pilani.ac.in/">BITS Pilani, Goa</a> where I'm majoring in Math and Electronics. I work in the field of Cryptography. My interests in particular include Privacy-Preserving Technologies, Secure Multi-party Computation and Zero-Knowledge Proofs. I have gained a special interest towards developing efficient techniques to solve problems in the domain of secure set operations like intersection, union, etc.. 
+I am a researcher in the <a target=_blank href="https://medium.com/privacy-scaling-explorations">Privacy And Scaling explorations</a> Group at <a target=_blank href="https://ethereum.foundation">Etheruem Foundation</a>. I work in the field of Cryptography. My interests in particular include Secure Multiparty Computation, Zero Knowledge Proofs and Homomorphic Encryption in practice. I have gained a special interest towards developing efficient techniques to solve problems in the domain of secure set operations like intersection, union, etc. I am also a consultant researcher at <a target=_blank href="https://www.chain-reaction.io">Chain Reaction</a>, Israel. I finished my undergraduation at <a target=_blank href="https://bits-pilani.ac.in/">BITS Pilani, Goa</a> with a double major in Math and Electronics. 
 
-I'm currently writing my senior thesis at <a target=_blank href="https://cyber.biu.ac.il/">The Center for Research in Applied Cryptography and Cyber Security, Bar Ilan Univeristy</a> supervised by <a target=_blank href="https://www.eng.biu.ac.il/hazay/">Prof. Carmit Hazay</a> and <a target=_blank href="https://www.cs.rochester.edu/u/muthuv/">Prof. Muthu Venkitasubramaniam</a>. Our work revolves around the PSI-Sum with Cardinality Problem. I am also working at <a target=_blank href="https://qed-it.com/">QED-it</a> as a cryptography intern under <a target=_blank href="https://www.linkedin.com/in/daniel-benarroch-guenun-19419264/?originalSubdomain=il">Daniel Benarroch</a>. Recently, I interned with the <a target=_blank href = "https://researcher.watson.ibm.com/researcher/view_group.php?id=7284">Blockchain and Smart Contracts group</a> at <a target=_blank href ="https://researcher.watson.ibm.com/researcher/view_group.php?id=8069">IBM Research India Labs  </a> under <a target=_blank href ="https://researcher.watson.ibm.com/researcher/view.php?person=in-dvinaya1">Dr. Dhinakaran Vinayagamurthy</a>. 
+I completed my senior thesis at <a target=_blank href="https://cyber.biu.ac.il/">The Center for Research in Applied Cryptography and Cyber Security, Bar Ilan Univeristy</a> supervised by <a target=_blank href="https://www.eng.biu.ac.il/hazay/">Prof. Carmit Hazay</a> and <a target=_blank href="https://www.cs.rochester.edu/u/muthuv/">Prof. Muthu Venkitasubramaniam</a>, where we worked on an efficient solution for the PSI-Sum Problem. Recently, I interned at <a target=_blank href="https://qed-it.com/">QED-it</a> as a cryptography intern under <a target=_blank href="https://www.linkedin.com/in/daniel-benarroch-guenun-19419264/?originalSubdomain=il">Daniel Benarroch</a>. I have also interned with the <a target=_blank href = "https://researcher.watson.ibm.com/researcher/view_group.php?id=7284">Blockchain and Smart Contracts group</a> at <a target=_blank href ="https://researcher.watson.ibm.com/researcher/view_group.php?id=8069">IBM Research India Labs  </a> under <a target=_blank href ="https://researcher.watson.ibm.com/researcher/view.php?person=in-dvinaya1">Dr. Dhinakaran Vinayagamurthy</a>. 
 
-Feel free to check out my <a target=_blank href = "https://rahulbs98.github.io/files/cv.pdf">CV</a> and drop an <a target=_blank href="mailto:rahulbs1798@gmail.com">e-mail</a> if you want to chat with me! I am also planning to blog <a target=_blank href="https://medium.com/@bsrahul">here</a>. 
+ Feel free to check out my <a target=_blank href = "https://rahulbs98.github.io/files/cv.pdf">CV</a> and drop an <a target=_blank href="mailto:rahulbs1798@gmail.com">e-mail</a> if you want to chat with me! I am also planning to blog <a target=_blank href="https://medium.com/@bsrahul">here</a>. 

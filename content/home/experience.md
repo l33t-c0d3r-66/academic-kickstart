@@ -19,14 +19,34 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
+  title = "Cryptography Researcher"
+  company = "Ethereum Foundation"
+  company_url = "https://ethereum.foundation/"
+  company_logo = "eth.jpg"
+  location = "Singapore"
+  date_start = "2021-06-28"
+  date_end = ""
+  description = """Working on understanding the PLONK proving system for implementing ZK Virtual Machines(ZKVMs)."""
+
+[[experience]]
+  title = "Consultant Researcher"
+  company = "Chain Reaction"
+  company_url = "https://www.chain-reaction.io/"
+  company_logo = "cr.jpg"
+  location = "Yokne’am Illit, Israel"
+  date_start = "2021-06-28"
+  date_end = ""
+  description = """Working on understanding practical cryptosystems that support Fully Homomorphic Encryption."""
+
+[[experience]]
   title = "Cryptography Research Intern"
   company = "QED-it Systems"
   company_url = "https://qed-it.com/"
   company_logo = "qedit.jpg"
   location = "Tel Aviv, Israel"
   date_start = "2020-12-21"
-  date_end = ""
-  description = """Generating efficient comparision circuits for homomorphic encryption schemes"""
+  date_end = "2021-06-20"
+  description = """Built efficient comparision and sorting circuits for homomorphic encryption schemes"""
 
 [[experience]]
   title = "Research Intern"
@@ -35,8 +55,8 @@ date_format = "Jan 2006"
   company_logo = "biu.jpg"
   location = "Tel Aviv, Israel"
   date_start = "2021-01-18"
-  date_end = ""
-  description = """Working on the PSI-Sum with Cardinality problem"""
+  date_end = "2021-05-20"
+  description = """Worked on the PSI-Sum with Cardinality problem"""
 
 [[experience]]
   title = "Summer Research Intern"
