@@ -23,12 +23,6 @@
   url = "#projects"
   weight = 50
 
-[[main]]
-name = "Mentorship Program"
-weight = 80
-identifier = "Mentorship"
-url = "https://khyatijain.com/covid-aid"
-
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 [[main]]
